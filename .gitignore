@@ -1,7 +1,8 @@
-# Only the encrypted site is published. Everything else (questions, app code,
+# Only the encrypted site (and the encrypted book pages in lib/) is published. Everything else (questions, app code,
 # build scripts, and the password) stays on this computer.
 /*
 !/index.html
 !/.nojekyll
 !/.gitignore
 !/README.md
+!/lib/
